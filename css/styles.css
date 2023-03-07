@@ -1,0 +1,30 @@
+body {
+    background-color: #ECF9FF;
+    text-align: center;
+    
+}
+
+.container {
+    background-color: white;
+    width: 20%;
+    border-radius: 10px;
+    margin: 100px auto 100px auto;
+    padding: 10px 10px 35px 10px;
+    
+   
+}
+
+h3 {
+    font-size: 1.05em;
+    font-family: 'Rubik', sans-serif;
+    margin: 18px 28px 18px 28px;
+}
+
+p {
+    font-size: 0.8em;
+    margin: 18px 28px 18px 28px;
+}
+
+img {
+    border-image: 10px;
+}
